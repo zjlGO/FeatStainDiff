@@ -13,8 +13,8 @@ implementation is at https://github.com/baofff/U-ViT and is licensed
 under the MIT License, Copyright (c) 2022 Fan Bao.
 
 The research code lineage contains U-ViT-derived material. The denoiser
-implementation in featstaindiff/model.py is temporarily withheld for review;
-it uses a U-shaped Transformer design and sinusoidal timestep embedding
+implementation in featstaindiff/model.py uses a U-shaped Transformer
+design and sinusoidal timestep embedding
 from this lineage. The complete upstream copyright and permission notice
 is in licenses/U-ViT-LICENSE.txt and is included in source and wheel
 distributions.
